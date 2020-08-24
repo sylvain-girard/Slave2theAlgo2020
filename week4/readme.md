@@ -1,4 +1,4 @@
-# stuff we did in week 3
+# stuff we did in week 4
 ## processing hunt & gather
 <img src="Screen Shot 2020-08-12 at 2.39.34 pm.png" width="350" />
 
