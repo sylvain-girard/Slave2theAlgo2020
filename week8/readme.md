@@ -37,6 +37,6 @@ After browsing a few other people's ([Yannis Yannakopoulos](https://tympanus.net
 
 <img src="getenergy.gif" width="750" />
 
-This is just a start on trying to get the sound values to move shapes, rather than just control the scale. So far I am still not sure how I will achieve the wavy lines that I am aiming for, as the 'waveform' function that I had been working on appears to be tied to being a flat line.
+This is just a start on trying to get the sound values to move shapes and change colours, rather than just control the scale. So far I am still not sure how I will achieve the wavy lines that I am aiming for, as the 'waveform' function that I had been working on appears to be tied to being a flat line. Right now thhe colours are not being effected as much as I need, but I still have a lot to explore in that department.
 
 <img src="mandala.gif" width="750" />
