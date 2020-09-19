@@ -33,6 +33,10 @@ I was super surprised at how quick the process was for creating a basic text-to-
 
 ## my code progress
 
+Waveform is another function of p5sound that, as the name would suggest, taps into the waveform of the sound file. It was surprisingly simple to get it running on my original sketch, however what I need is similar to a waveform, though mapped to a semi-circle rather than a flat line. From my attempts, I found this would not be that simple, but I have no douct that it is possible. I may revisit it after I get all of my inputs going in my sketch.
+
+<img src="waveform.gif" width="750" />
+
 After browsing a few other people's ([Yannis Yannakopoulos](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/) and [Rios](https://editor.p5js.org/rios/sketches)) codes using the getEnergy function of p5sound, I finally managed to get my own sketch up and running. The main difficulties arose from knowing where to place all the variables, I originally had them all outisde of 'function draw' but after trying everything I found that they should be within 'function draw' entirely. I'm sure there is a neater way to do it but I am just happy that it works. My code uses five variables from the sound, bass, low mid, mid, high mid, and treble.
 
 <img src="getenergy.gif" width="750" />
