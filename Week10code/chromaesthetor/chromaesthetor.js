@@ -86,13 +86,13 @@ function draw() {
   blendMode(BLEND);
   
    noStroke();
-  //fill (0,0,100,50);
-  //ellipse(windowWidth/2 - 400,windowHeight/4,mapBass+100,mapBass+100); 
-  //ellipse(windowWidth/2 - 200,windowHeight/4,mapLm+100,mapLm+100); 
-  //ellipse(windowWidth/2,windowHeight/4,mapMid+100,mapMid+100);
-  //ellipse(windowWidth/2 + 200,windowHeight/4,mapHm+100,mapHm+100); 
-  //ellipse(windowWidth/2 + 400,windowHeight/4,mapTreble+100,mapTreble+100); 
-  //ellipse(windowWidth/2 + 600,windowHeight/4,custom+100,custom+100);
+  fill (0,0,100,50);
+  ellipse(windowWidth/2 - 400,windowHeight/4,mapBass+100,mapBass+100); 
+  ellipse(windowWidth/2 - 200,windowHeight/4,mapLm+100,mapLm+100); 
+  ellipse(windowWidth/2,windowHeight/4,mapMid+100,mapMid+100);
+  ellipse(windowWidth/2 + 200,windowHeight/4,mapHm+100,mapHm+100); 
+  ellipse(windowWidth/2 + 400,windowHeight/4,mapTreble+100,mapTreble+100); 
+  ellipse(windowWidth/2 + 600,windowHeight/4,custom+100,custom+100);
   
   var volume = analyzer.getLevel(); //extracts volume from song
   volume = (volume*200)+100;
