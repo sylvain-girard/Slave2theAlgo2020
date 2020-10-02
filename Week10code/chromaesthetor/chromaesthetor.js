@@ -123,7 +123,7 @@ function draw() {
     //line( mapTreble, radius/2, 0, radius );
   //}
 translate(0,10);
-fill(80);
+fill(0, 0, 90,70);
 text('chromaesthetor', windowWidth/2, windowHeight/2);
 }
 
