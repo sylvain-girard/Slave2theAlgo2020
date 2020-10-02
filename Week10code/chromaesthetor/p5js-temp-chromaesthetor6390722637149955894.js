@@ -1,5 +1,4 @@
 let fft, song, analyzer;
-
 let kMax; //BLOBS
 let step;
 let n = 30; // number of blobs
@@ -8,12 +7,19 @@ let inter = 8; // difference between the sizes of two blobs
 let maxNoise = 20;
 let noiseProg = (x) => (x); //BLOBS
 
-function preload(){ //use for bigger size files
-  song = loadSound('data/Piano.mp3'); //need directory /data
-  
+//function preload(){ //use for bigger size files
+//  song = loadSound('data/Piano.mp3'); //need directory /data
+//}
+
+function handleFile(file) {
+  print(file);
+    song = loadSound(file.data, loadSound);
 }
+
 function setup() {
   createCanvas(windowWidth, windowHeight); //full window canvas
+  input = createFileInput(handleFile);
+  input.position(20, windowHeight/2);
   colorMode(HSB, 360, 100, 100, 100); //hsb, hue, sat, brightness, alpha //BLOBS 
   angleMode(DEGREES);
   noFill();
@@ -71,7 +77,7 @@ function draw() {
      //fill(0, 0, 255, alpha*255);
     //blob(size, (width/2)+100, (height/2), k, t - i * step, noisiness);
     fill(0, 100, 100, alpha*trebAlpha);
-    blob(size, width/2+50, (height/2)-25, k, t - i * step, (trebNoise*2));
+    blob(size, width/2+50, (height/2)-25, k, t - i * step, (trebNoise*1.5));
     //fill(150, 100, 100, alpha*255);
     //blob(size, (width/2)-100, (height/2)+75, k, t - i * step + 0.2, noisiness);
     fill(220, 100, 100, alpha*bassAlpha);
@@ -123,7 +129,7 @@ function draw() {
     //line( mapTreble, radius/2, 0, radius );
   //}
 translate(0,10);
-fill(80);
+fill(0, 0, 90,70);
 text('chromaesthetor', windowWidth/2, windowHeight/2);
 }
 
@@ -151,8 +157,7 @@ function keyPressed(){
     song.pause();
   } else {
     song.loop();
-   // fill(212,239,222);
-   fill(0);
+  
   } 
 
 }
