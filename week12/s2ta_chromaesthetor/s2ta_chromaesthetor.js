@@ -5,7 +5,7 @@ Daniel Shiffman - sound: https://github.com/CodingTrain/website/tree/master/Tuto
                   CSS: https://www.youtube.com/watch?v=zGL8q8iQSQw
 Tympnus - https://tympanus.net/Development/AudioVisualizers/
 Roni Kaufman - https://www.openprocessing.org/user/184331
-And of course, Karen Ann Donnachie and Andy Simmionato
+And of course, Karen ann Donnachie and Andy Simionato
 */
 let fft, song, analyzer, peakDetect;
 let kMax; //BLOBS randomness
