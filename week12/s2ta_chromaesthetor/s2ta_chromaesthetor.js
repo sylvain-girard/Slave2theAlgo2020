@@ -19,6 +19,7 @@ let font;
 let points;
 let bounds;
 let fade = 40;
+let theme = 20;
 let ellipseWidth = 200;
 let dark = false;
 
@@ -51,6 +52,8 @@ function setup() {
   btn.style("width", "110px");
   btn.style("height", "20px");
   btn.style("opacity", "0");
+  btn.mouseOver(themehoverState);
+  btn.mouseOut(themeunhoverState);
   btn.mousePressed(darkMode); 
   
   colorMode(HSB, 360, 100, 100, 100); //hsb, hue, sat, brightness, alpha //BLOBS 
@@ -166,7 +169,7 @@ push();
   for (let i = n; i > 0; i--) {                                                    //BLOBS
     let noisiness = maxNoise * noiseProg(i / n);
     let bassNoise, midNoise, trebNoise, bassAlpha, midAlpha, trebAlpha, hmAlpha,
-    bassColour, midColour, trebColour, bassSize, trebSize;
+    bassColour, drkbassColour, midColour, trebColour, drktrebColour, bassSize, trebSize;
     bassNoise = map(bass, 0, 255, 60, 400);
     bassSize = map(bass, 0, 255, 0, 30);
     hmNoise = map(mapHm, 0, 255, 30, 400);
@@ -179,8 +182,10 @@ push();
     trebAlpha = map(treble, 0, 255, 50, 100);
     //bassColour = 390-map(bass, 0, 255, 0, 180);
     bassColour = map(bass, 0, 255, 0, 360);
+    drkbassColour = map(bass, 0, 255, 360, 0);
     //trebColour = 360-map(treble, 0, 255, 0, 150);
     trebColour = map(treble, 0, 255, 0, 360);
+    drktrebColour = map(treble, 0, 255, 360, 0);
     midColour = map(mid, 0, 255, 80, 150);
     
    let alpha = pow(0.8 - noiseProg(i / n), 3);
@@ -188,8 +193,19 @@ push();
    let k = kMax * sqrt(i/n);
     
     fill(bassColour, 100, 100, alpha*bassAlpha);
+    if(dark) {
+      fill(drkbassColour, 100, 100, alpha*bassAlpha);
+    } else {
+      fill(bassColour, 100, 100, alpha*bassAlpha);
+    }
     blob(size + bassSize, (width/2)-60, (height/2)+35, k, t - i * step, bassNoise*1.2); 
+   
     fill(trebColour, 100, 100, alpha*trebAlpha);
+    if(dark) {
+    fill(drktrebColour, 100, 100, alpha*trebAlpha);
+    } else {
+    fill(trebColour, 100, 100, alpha*trebAlpha);
+    }
     blob(size + trebSize, width/2+60, (height/2)-35, k, t - i * step, trebNoise*1.8);
    }                                                                              //BLOBS
   blendMode(BLEND);
@@ -246,11 +262,11 @@ textFont (font2);
 textSize (15);
 textAlign(CENTER, CENTER);
 translate(90, 30);
-fill(0, 0, 80, 80);
+fill(0, 0, 80, 60+theme);
 if(dark) {
-  fill(0, 0, 80, 50);
+  fill(0, 0, 80, 30+theme);
 } else {
-    fill(0, 0, 80, 80);
+    fill(0, 0, 80, 60+theme);
 }
 text('dark/light mode', 0, 0);                                                  //TEXT
 
@@ -294,6 +310,14 @@ function unhoverState(){
  } 
 }
 
+function themehoverState(){
+  theme = 40;
+}
+
+function themeunhoverState(){
+ theme = 20;
+}
+ 
 function keyPressed(){
  if (song.isPlaying()){
     song.pause();
