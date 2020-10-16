@@ -256,7 +256,7 @@ textFont (font2);
 textSize (15);
 translate(windowWidth/2, 30);
 fill(0, 0, 80,fade*2);
-text('space bar is your play/pause', 0, 0);
+text('upload a song then space bar to play/pause', 0, 0);
 pop();
 textFont (font2);
 textSize (15);
