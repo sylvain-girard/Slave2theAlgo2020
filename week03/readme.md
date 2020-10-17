@@ -1,4 +1,4 @@
-# stuff we did in week 3
+# week 3
 
 ## 12 hour challenge 
 
