@@ -56,6 +56,15 @@ function setup() {
   btn.mouseOut(themeunhoverState);
   btn.mousePressed(darkMode); 
   
+  playBtn = createButton("play/pause"); 
+  playBtn.position(windowWidth/2-55, 20); 
+  playBtn.style("width", "110px");
+  playBtn.style("height", "25px");
+  playBtn.style("opacity", "0");
+  playBtn.mouseOver(themehoverState);
+  playBtn.mouseOut(themeunhoverState);
+  playBtn.mousePressed(playPause); 
+  
   colorMode(HSB, 360, 100, 100, 100); //hsb, hue, sat, brightness, alpha //BLOBS 
   
   noFill();
@@ -256,7 +265,7 @@ textFont (font2);
 textSize (15);
 translate(windowWidth/2, 30);
 fill(0, 0, 80,fade*2);
-text('upload a song then space bar to play/pause', 0, 0);
+//text('upload a song then space bar for play/pause', 0, 0);
 pop();
 textFont (font2);
 textSize (15);
@@ -268,7 +277,9 @@ if(dark) {
 } else {
     fill(0, 0, 80, 60+theme);
 }
-text('dark/light mode', 0, 0);                                                  //TEXT
+text('dark/light mode', 0, 0);
+translate(windowWidth/2-90, 0);
+text('play/pause', 0, 0); //TEXT
 
 } //DRAW END
 
@@ -328,10 +339,20 @@ function keyPressed(){
     } 
   }
 
+function playPause() { 
+ if (song.isPlaying()){
+    song.pause();
+    fade = 40;
+  } else {
+    song.loop();
+    fade = 0;
+    } 
+}   
+
 function darkMode() { 
     if (dark) {
     dark = false;
   } else {
     dark = true;
   }
-}                                                                           //USER
+}   
