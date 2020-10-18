@@ -1,3 +1,4 @@
-# Slave2theAlgo2020
-## sem 2 studio
-slave to the algorithm
+# Slave to the Algorithm
+
+## A weekly journal of sorts, about the Slave to the Algorithm course, and the progress of my project.
+
