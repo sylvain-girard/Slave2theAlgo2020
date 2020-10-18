@@ -4,3 +4,4 @@ In week 5 we all presented our piteches for our projects. My [Pitch](https://doc
 
 <img src="Screen Shot 2020-08-29 at 2.30.53 pm.png" width="750" />
 
+## [week 6 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week06/)

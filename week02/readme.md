@@ -15,3 +15,5 @@ We began trying out some basic code in the Processing program in order to achiev
 
 <img src="https://github.com/sylvain-girard/Slave2theAlgo2020/blob/master/week2/Screen%20Shot%202020-07-31%20at%2012.22.43%20pm.png" width="400" height="400">
 <img src="https://github.com/sylvain-girard/Slave2theAlgo2020/blob/master/week2/Screen%20Shot%202020-07-31%20at%201.07.27%20pm.png" width="400" height="400">
+
+## [week 3 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week03/)

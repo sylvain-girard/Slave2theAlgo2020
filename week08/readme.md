@@ -2,7 +2,7 @@
 ## pseudocode
 
 Pseudocode is a way of planning out real code in plain English, and potentially to use as a guide for writing the real code. I think of it as writing the English phonetic pronunciation when you're learning a new language, before writing the proper spelling; it helps you bridge the learning gap and make it easier to remember.
-As my code will rely largely on numerical data pulled from sound rather than user input, I found it pretty hard to plan out the pseudocode for my project, so I left it quite abstract as to not spend too much time on it.
+As my code will rely largely on numerical data pulled from sound rather than user input, I found it pretty hard to plan out the pseudocode for my project, so I left it quite abstract as to not spend too much time on it and get going on my real code.
 
 FUNCTION visual
 INPUT sound
@@ -44,3 +44,5 @@ After browsing a few other people's ([Yannis Yannakopoulos](https://tympanus.net
 This is just a start on trying to get the sound values to move shapes and change colours, rather than just control the scale. So far I am still not sure how I will achieve the wavy lines that I am aiming for, as the 'waveform' function that I had been working on appears to be tied to being a flat line. Right now thhe colours are not being effected as much as I need, but I still have a lot to explore in that department.
 
 <img src="mandala.gif" width="750" />
+
+## [week 9 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week09/)
