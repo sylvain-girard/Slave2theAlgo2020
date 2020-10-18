@@ -12,3 +12,5 @@ This was the first time we started to work with sound in Processing to create a 
 
 <img src="vis.gif" width="600" />
 
+## [week 7 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week07/)
+
