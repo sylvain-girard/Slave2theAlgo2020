@@ -15,3 +15,5 @@ This was just an example of using FFT (frequency) to drive some shapes. I watche
 This week involved some more type-based coding and being able to assign various effects to words or letters. Towards the end we also went over assigning key commands from the keyboard, whichh was easier than I expected. The result was being able to write text that moves around randomly and over time could eventually become illegible.
 
 <img src="Screen Shot 2020-09-11 at 8.42.04 pm.png" width="750" />
+
+## [week 8 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week08/)
