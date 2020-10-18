@@ -7,4 +7,4 @@ After rolling the dice 60 times, we realised that this is where a computer algor
 ## This is the result after 60 dice rolls
 <img src="art.png" width="350" />
 
-[week 2](https://sylvain-girard.github.io/Slave2theAlgo2020/week02/)
+## [week 2 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week02/)
