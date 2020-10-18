@@ -11,7 +11,7 @@ The first 'self-algorithm' I tried involved what would normally be my morning co
 
 ## playing around with Processing to achieve some basic interactivity 
 
-We began trying out some basic code in the Processing program in order to achieve some basic interactive sketches. I found it to be pretty perplexing to begin with, because i'd only ever hhad experience with HTML and CSS so thhis was quite different. The results were being able to draw using shapes in the sketch, by following thhe mouse position. We also used the mouse position to determine the colour.
+We began trying out some basic code in the Processing program in order to achieve some basic interactive sketches. I found it to be pretty perplexing to begin with, because I'd only ever had basic experience with HTML and CSS so this was quite different. The results were being able to draw using shapes in the sketch, by following thhe mouse position. We also used the mouse position to determine the colour.
 
 <img src="Screen%20Shot%202020-07-31%20at%2012.22.43%20pm.png" width="400" height="400">
 <img src="Screen%20Shot%202020-07-31%20at%201.07.27%20pm.png" width="400" height="400">
