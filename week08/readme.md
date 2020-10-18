@@ -33,7 +33,7 @@ I was super surprised at how quick the process was for creating a basic text-to-
 
 ## my code progress
 
-Waveform is another function of p5sound that, as the name would suggest, taps into the waveform of the sound file. It was surprisingly simple to get it running on my original sketch, however what I need is similar to a waveform, though mapped to a semi-circle rather than a flat line. From my attempts, I found this would not be that simple, but I have no douct that it is possible. I may revisit it after I get all of my inputs going in my sketch.
+Waveform is another function of p5sound that, which as the name would suggest, taps into the waveform of the sound file. It was surprisingly simple to get it running on my original sketch, however what I need is similar to a waveform, though mapped to a semi-circle rather than a flat line. From my attempts, I found this would not be that simple, but I have no doubt that it is possible. I may revisit it after I get all of my inputs going in my sketch.
 
 <img src="waveform.gif" width="750" />
 
