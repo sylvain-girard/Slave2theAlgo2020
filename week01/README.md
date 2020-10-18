@@ -5,4 +5,5 @@ We started off with an intro into generative and parametric design. There were s
 
 After rolling the dice 60 times, we realised that this is where a computer algorithm would come in handy as it was taking us about 30 seconds for one shape, whereas a computer could simulate hundreds of dice rols instantly. This is something that I would known anyway, however actually partaking in the task really makes it obvious how cumbersome this 'analog' method is.
 ## This is the result after 60 dice rolls
-<img src="art.png">
+<img src="art.png" width="350" />
+[week 2] (https://sylvain-girard.github.io/Slave2theAlgo2020/week02/)
