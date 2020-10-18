@@ -2,7 +2,7 @@
 ## pseudocode
 
 Pseudocode is a way of planning out real code in plain English, and potentially to use as a guide for writing the real code. I think of it as writing the English phonetic pronunciation when you're learning a new language, before writing the proper spelling; it helps you bridge the learning gap and make it easier to remember.
-As my code will rely largely on numerical data pulled from sound rather than user input, I found it pretty hard to plan out the pseudocode for my project, so I left it quite abstract as to not spend too much time on it.
+As my code will rely largely on numerical data pulled from sound rather than user input, I found it pretty hard to plan out the pseudocode for my project, so I left it quite abstract as to not spend too much time on it and get going on my real code.
 
 FUNCTION visual
 INPUT sound
