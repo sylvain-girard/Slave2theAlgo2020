@@ -17,3 +17,5 @@ We moved on to more mechanical apporaches to generative design, being drawing ma
 
 ### Oscillating fan machine
 <img src="Aug-07-2020 12-15-26.gif" width="350" />
+
+## [week 3 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week03/)
