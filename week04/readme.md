@@ -19,3 +19,5 @@ This was when we first started to use images in Processing, and about how to use
 We also began working with text in Processing, which I guess proved to be a little more complex than I was imagining. I found that the visual quality of the text was actually quite low which will probably effect the direction I go for my project.
 
 <img src="Screen Shot 2020-08-14 at 2.08.36 pm.png" width="350" />
+
+## [week 5 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week05/)
