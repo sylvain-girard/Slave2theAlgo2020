@@ -1,6 +1,6 @@
 # Slave to the Algorithm
 
-# SKO
+# SKO - Sylvain Girard
 
 ### [week 1](https://sylvain-girard.github.io/Slave2theAlgo2020/week01/)
 
