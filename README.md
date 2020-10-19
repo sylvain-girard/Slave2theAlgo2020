@@ -1,6 +1,6 @@
 # Slave to the Algorithm
 
-## A weekly journal of sorts, about the Slave to the Algorithm course, and the progress of my project.
+# SKO
 
 ### [week 1](https://sylvain-girard.github.io/Slave2theAlgo2020/week01/)
 
