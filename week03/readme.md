@@ -10,7 +10,7 @@ This week my '12 hour challenge' involved finding new international music, which
 
 This week I was looking into generative art, just to kind of get an idea of what kind of outcomes may be produced using primarily raw data as an input. I came across the work of [Tom White](https://aiartists.org/tom-white), who uses machine learning and neural networks to turn the systems used by Google, Amazon, for classifying the content of an image, into systems that can output images based on these parameters. The visual result is basically the essence of whatever thing is depicted, from the perspective of machines. Sometimes the result can be deciphered by a human mind, sometimes its just too abstract, but for these systems it is the most refined example.
 
-<img src="Tom+White.jpeg" width="350" />
+<img src="Tom+White.jpeg" width="900" />
 
 ## basic drawing machines
 
