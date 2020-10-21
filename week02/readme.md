@@ -1,4 +1,4 @@
-# stuff we did in week 2
+# week 2
 
 ## 12 hour challenge 
 
