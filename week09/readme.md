@@ -4,7 +4,7 @@
 
 At this stage I am working towards combining all my p5 sketches into the single, final sketch. Not all the elements are functioning perfectly yet, particularly the wavy lines that I want, but I will work on them as I go. Combining everything is proving to be a bit of a process, as I need to make sure all of the variables are called at the right stage; some only work when called in the draw function, and some should be called first or in the setup. I've also been converting everything into the HSB colour mode, so that I can map the colour to the frequencies in a more natural way, controlling the hue, saturation, and brightness as separate variables. I've never really worked with HSB before, so I needed to print off a hue circle as a reference for getting my colours right.
 
-<img src="munsell-hue-circle-chart-color-comparison.jpg" width="750" />
+<img src="munsell-hue-circle-chart-color-comparison.jpg" width="500" />
 
 The five circles at the top are just left in to monitor what all the frequencies are doing in different songs.
 
