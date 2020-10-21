@@ -2,7 +2,7 @@
 
 ## working on my project
 
-This was a small development on the week 6 task. I was just playing around with getting multiple shapes driven by the amplitude at different factors. I found that just multiplying the value of the amplitude wasn't resulting in the more exponential effect I imagined, so I will keep trying different ways.
+This was a small development on the week 6 task. I was just playing around with getting multiple shapes driven by the amplitude at different factors. I found that just multiplying the value of the amplitude wasn't resulting in the more 'exponential growth' effect I imagined, so I will keep trying different ways.
 
 <img src="gif1.gif" width="750" />
 
@@ -12,7 +12,7 @@ This was just an example of using FFT (frequency) as well as FFT Waveform to dri
 
 ## weekly research
 
-This week I was focused on trying to find ways of creating the visuals that I wanted in my project, or at least somethhing that looked similar that I could look through the code and get an idea. I started on Open Processing and found a couple of great examples for the 'blobs' in the centre of my sketch, one by [Sayama](https://www.openprocessing.org/sketch/816453), and one by [Roni Kaufman](https://www.openprocessing.org/sketch/839679), who both seem to be have an abundance of various projects on the site.
+This week I was focused on trying to find ways of creating the visuals that I wanted in my project, or at least somethhing that looked similar that I could look through the code and get an idea. I started on Open Processing site and found a couple of great examples for the 'blobs' in the centre of my sketch, one by [Sayama](https://www.openprocessing.org/sketch/816453), and one by [Roni Kaufman](https://www.openprocessing.org/sketch/839679), who both seem to be have an abundance of various projects on the site.
 
 Sayama - 191227
 
