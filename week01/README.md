@@ -14,7 +14,7 @@ We did a small group task relating to creating generative art, but in the more a
 
 <img src="Screen%20Shot%202020-07-24%20at%203.29.08%20pm.png" width="350" />
 
-After rolling the dice 60 times, we realised that this is where a computer algorithm would come in handy as it was taking us about 30 seconds for one shape, whereas a computer could simulate hundreds of dice rols instantly. This is something that I would known anyway, however actually partaking in the task really makes it obvious how cumbersome this 'analog' method is.
+After rolling the dice 60 times, we realised that this is where a computer algorithm would come in handy as it was taking us about 30 seconds for one shape, whereas a computer could simulate hundreds of dice rolls instantly. This is something that I would have figured anyway, but actually partaking in the task really makes it obvious how cumbersome this 'analog' method is.
 
 ### This is the result after 60 dice rolls
 
