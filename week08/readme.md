@@ -46,7 +46,7 @@ Waveform is another function of p5sound that, which as the name would suggest, t
 
 <img src="waveform.gif" width="750" />
 
-I spent a while researching FFT and trying to find other examples of visualers or sound driven sketches using p5js. I found a couple of very useful examples by [Yannis Yannakopoulos](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/) and [Rios](https://editor.p5js.org/rios/sketches) with codes using the getEnergy function of p5sound. With this information I finally managed to get my own sketch up and running. The main difficulties arose from knowing where to place all the variables, I originally had them all outisde of 'function draw' but after trying everything I found that they should be within 'function draw' entirely. I'm sure there is a neater way to do it but I am just happy that it works. My code uses five variables from the sound, bass, low mid, mid, high mid, and treble.
+I spent a while researching FFT and trying to find other examples of visualers or sound driven sketches using p5js. I found a couple of very useful examples by [Tympanus](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/) and [Rios](https://editor.p5js.org/rios/sketches) with codes using the getEnergy function of p5sound. With this information I finally managed to get my own sketch up and running. The main difficulties arose from knowing where to place all the variables, I originally had them all outisde of 'function draw' but after trying everything I found that they should be within 'function draw' entirely. I'm sure there is a neater way to do it but I am just happy that it works. My code uses five variables from the sound, bass, low mid, mid, high mid, and treble.
 
 Tympanus
 
