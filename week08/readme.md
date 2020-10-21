@@ -50,7 +50,7 @@ I spent a while researching FFT and trying to find other examples of visualers o
 
 Tympanus
 
-<img src="https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/" width="750" />
+<img src="Screen Shot 2020-10-21 at 5.05.27 pm.png" width="750" />
 
 
 Bass, low mid, mid, high mid, treble
