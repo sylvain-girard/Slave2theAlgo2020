@@ -15,9 +15,11 @@ This was just an example of using FFT (frequency) as well as FFT Waveform to dri
 This week I was focused on trying to find ways of creating the visuals that I wanted in my project, or at least somethhing that looked similar that I could look through the code and get an idea. I started on Open Processing and found a couple of great examples for the 'blobs' in the centre of my sketch, one by [Sayama](https://www.openprocessing.org/sketch/816453), and one by [Roni Kaufman](https://www.openprocessing.org/sketch/839679), who both seem to be have an abundance of various projects on the site.
 
 Sayama - 191227
+
 <img src="Screen Shot 2020-10-21 at 4.45.52 pm.png" width="750" />
 
 Roni Kaufman - The Light
+
 <img src="Screen Shot 2020-10-21 at 4.46.04 pm.png" width="750" />
 
 ## hour of code
