@@ -22,3 +22,4 @@ After the class I created a paper prototype of the functions and basic look of w
 
 ## [week 7 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week07/)
 
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
