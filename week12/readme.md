@@ -24,7 +24,7 @@ Throughout my testing, I had only been using a couple of different songs to test
 
 <img src="Screen Shot 2020-10-19 at 1.13.23 pm.png" width="400" />
 
-The very last thing I did was add a dark mode to the Chromaeshetor. This was something I planned to do if I had enough time at the end because it wasn't really just a matter of chnaging the background. I had to figure out a way that would allow me to set up a button with a boolean operation and toggle various changes. The dark mode involves a darker background, of course, darker centre circles with adjusted opacity, changed blend modes for the sin wave lines and blobs, then the blobs themselves and the lines had colours and opacity adjusted. I didn't want the colours to be exactly the same in the dark mode, just on a dark background, so the colours in the dark mode are a bit more focused on oranges and blues. 
+The very last thing I did was add a dark mode to the Chromaeshetor. This was something I planned to do if I had enough time at the end because it wasn't really just a matter of changing the background. I had to figure out a way that would allow me to set up a button with a boolean operation and toggle various changes throughout the sketch. The dark mode involves a darker background, of course, darker centre circles with adjusted alpha, changed blend modes for the sin wave lines and blobs, then the blobs themselves and the lines had colours and opacity adjusted. I didn't want the colours to be exactly the same in the dark mode wit the only difference being the dark background, so the colours in the dark mode are a bit more focused on oranges and blues. 
 
 <img src="Screen Shot 2020-10-19 at 1.06.33 pm.png" width="400" />
 
