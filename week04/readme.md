@@ -16,13 +16,13 @@ Movie Barcodes
 
 <img src="Screen Shot 2020-10-22 at 3.57.01 pm.png" width="900" />
 
-
+Pointilise
 
 <img src="Screen Shot 2020-08-14 at 11.20.25 am.png" width="600" />
 
 ### working in processing with text
 
-We also began working with text in Processing, which I guess proved to be a little more complex than I was imagining. I found that the visual quality of the text was actually quite low which will probably effect the direction I go for my project.
+We also began working with text in Processing, which I guess proved to be a little more complex than I was imagining. I found that the visual quality of the text was actually quite low which will probably effect the direction I go for my project. We also learned some of the techniques around rotating an object, making sure it rotates from its centre point, as well as changing thhe draw background opacity so the moving object can leave trails. I like this trail effect as it is something that would normally be quite difficult when working with animation. I imagine there could be many things that coding could do better than the traditional methods.
 
 <img src="Screen Shot 2020-08-14 at 2.08.36 pm.png" width="600" />
 
