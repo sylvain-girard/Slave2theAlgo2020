@@ -13,3 +13,5 @@ Most of my research this week was actually surrounding the philosophy of colour,
 <img src="reflektor_distortion_03.jpg" width="900" />
 
 ## [week 6 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week06/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
