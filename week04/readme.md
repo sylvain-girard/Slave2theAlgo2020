@@ -4,7 +4,7 @@
 
 I chose this sketch by [Vamoss](https://www.openprocessing.org/sketch/913474) because I like that it combines the kinetic typography trend in a 3d way, with interactivity, being able to move the text around as if it was a 3d object. The use of the mouse pointer almost like a torch light was also great.
 
-<img src="Screen Shot 2020-08-12 at 2.39.34 pm.png" width=600" />
+<img src="Screen Shot 2020-08-12 at 2.39.34 pm.png" width="600" />
 
 ## processing
 
