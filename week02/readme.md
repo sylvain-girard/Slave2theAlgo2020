@@ -26,7 +26,7 @@ We began trying out some basic code in the Processing program in order to achiev
 <img src="Screen%20Shot%202020-07-31%20at%2012.22.43%20pm.png" width="600">
 <img src="Screen%20Shot%202020-07-31%20at%201.07.27%20pm.png" width="600">
 
-I also remixed Jinni's sketch, adding mouse-tracking animated facial expression, as well as changing hair colour based on te mouse location.
+I also remixed Jinni's sketch, adding mouse-tracking animated facial expression, as well as changing hair colour based on the mouse location.
 
 <img src="jinniremix.gif" width="600">
 
