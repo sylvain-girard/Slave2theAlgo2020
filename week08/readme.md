@@ -68,3 +68,5 @@ I was super surprised at how quick the process was for creating a basic text-to-
 <img src="Screen Shot 2020-09-19 at 4.18.20 pm.png" width="750" />
 
 ## [week 9 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week09/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
