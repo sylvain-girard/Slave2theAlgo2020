@@ -10,7 +10,13 @@ I chose this sketch by [Vamoss](https://www.openprocessing.org/sketch/913474) be
 
 ### working in processing with images
 
-This was when we first started to use images in Processing, and about how to use the image data to do various things. We first created a sort of colour-picker that detects the colour at the mouse location and creates a circle in that colour. Then we took this a bit further, creating randomised generative cirles spawning on pixels in their respective colours. I saw this as being very useful, as of course you could keep the colour data from the image just as colour data, or you could turn that data into something else, like sound for example.
+This was when we first started to use images in Processing, and about how to use the image data to do various things. We first created a sort of colour-picker that detects the colour at the mouse location and creates a circle in that colour. Having te colour values show up so instantly gave me the idea of having a colour picker that could actually convert the colour into other things, like sound. It reminded me of the [Movie Barcodes](https://moviebarcode.tumblr.com) that I had seen a while ago, I'm wondering if it would be possible to convert this kind of colour information into something else, having it act as a real barcode for other information.  Then we took this a bit further, creating randomised generative cirles spawning on pixels in their respective colours. I saw this as being very useful, as of course you could keep the colour data from the image just as colour data, or you could turn that data into something else, like sound for example.
+
+Movie Barcodes
+
+<img src="Screen Shot 2020-10-22 at 3.57.01 pm.png" width="900" />
+
+
 
 <img src="Screen Shot 2020-08-14 at 11.20.25 am.png" width="600" />
 
