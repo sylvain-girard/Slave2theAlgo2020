@@ -25,3 +25,5 @@ We moved on to more mechanical apporaches to generative design, being drawing ma
 <img src="Aug-07-2020 12-15-26.gif" width="350" />
 
 ## [week 4 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week04/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
