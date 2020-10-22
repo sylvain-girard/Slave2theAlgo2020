@@ -10,15 +10,15 @@ I moved on to finalising the the wavy lines that had been causing me so much tro
 
 Connecting line issue
 
-<img src="Screen Shot 2020-10-22 at 2.50.22 pm.png" width="350" />
+<img src="Screen Shot 2020-10-22 at 2.50.22 pm.png" width="500" />
 
 BeginShape(POINTS)
 
-<img src="points.gif" width="350" />
+<img src="points.gif" width="500" />
 
 BeginShape(LINES)
 
-<img src="lines.gif" width="350" />
+<img src="lines.gif" width="500" />
 
 Throughout my testing, I had only been using a couple of different songs to test the visual reactions in the sketch, so while the result was great for these songs, I found that once I got the upload functionality working properly and started trying many different songs, the result was less than satisfactory. This is because I had been tuning the visuals to work well with specific songs, but every song has different qualities that would effect the visuals differently. For example, I found some songs were having the colours stay in the same range throughout the whole song, which is not ideal, so I changed the way colours were mapped. I had originally been using a complicated mapping system based on the 360 degrees of colour hues with a selected range for bass and negtive range for treble. I realised that 99% of the time in music, the treble and bass would never be at the same level, so for a more accurate effect, I could actually just give them the same mapping range of 0-360. This produced a much better result.
 
