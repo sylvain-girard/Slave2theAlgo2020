@@ -19,3 +19,5 @@ As far as the visual aspects, I was again working on the wavy lines that are sup
 We also had a progress report with Karen and Andy, I had many questions for Karen surrounding the wavy lines that I wanted in my sketch, the issues with the file upload, as well as mapping colour hue further than the 360 degrees (wanting to go from 270 to 70 smoothly). Andy gave some good feedback on the UI and how my UI could be more focused on the visual characteristic of having the circles in the centre, the shapes lend themselves to be part of the UI in a way. This session was really valuable for me as it gave me a good direction of what to do in the last two weeks.
 
 ## [week 11 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week11/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
