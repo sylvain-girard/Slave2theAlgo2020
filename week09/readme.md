@@ -20,6 +20,6 @@ This week's coding session was particularly focused on typography and while it m
 
 After the vibrating letters sketch we looked at the text-to-points function of p5js that allows the extrapolation of the vertex points of a letterform. I thought it was cool how you can essentially map a sin wave onto a letter, then Karen gave me the idea that I could use a letter O as a basis for the wavy lines in my sketch. I had been playing around with a sin wave on a circle, but given thhat the points are evenly spaced around the circle, it looked a bit too uniform.
 
-<img src="Screen Shot 2020-10-22 at 1.01.42 pm.png" width="600" />
+<img src="ttpgif.gif" width="600" />
 
 ## [week 10 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week10/)
