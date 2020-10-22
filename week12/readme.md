@@ -32,4 +32,4 @@ The very last thing I did was add a dark mode to the Chromaeshetor. This was som
 
 The final sketch of the [Chromaesthetor](https://sylvain-girard.github.io/Slave2theAlgo2020/week12/Chromaesthetor/). As of submission it's working well on desktops, laptops, and tablets, however not on screens with a very different aspect ratio (phones).
 
-<img src="Screen Shot 2020-10-22 at 4.13.43 pm.png" width="900" />
+<img src="Screen Shot 2020-10-22 at 4.13.43 pm.png" width="1200" />
