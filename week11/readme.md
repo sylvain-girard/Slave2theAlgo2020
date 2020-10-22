@@ -1,10 +1,16 @@
 # Week 11
 
-[One attempt](https://sylvain-girard.github.io/Slave2theAlgo2020/week11/noiselines/) (space bar to start) at finding the right method to create organic 'noise lines'
+[Another attempt](https://sylvain-girard.github.io/Slave2theAlgo2020/week11/noiselines/) (space bar to start) at finding the right method to create the organic wavy lines I want in my sketch. This time I tried something similar to the simple sin wave effected circle, but this time, adding noise as a factor too. This got rid of a lot of that uniformity that I didn't want, but maybe too much so, as the result was a bit too erratic.
+
+Sin wave circle vs sin wave with noise
+
+<img src="Screen Shot 2020-10-16 at 7.04.07 pm.png" width="400" />
+
+<img src="noiselines.gif" width="400" />
 
 At this point in the project I was encountering many difficulties with the deadline looming. Naturally, when combining the sketch of an individual element into the main sketch with hundreds of lines of code, there will be some difficulty with making sure all the variables are there, there are no conflicting variables, everything of that nature. I couldn't figure out why my 'noise lines' were working fine in teir own sketch, but not in my main sketch. I started commenting out lines one by one and realised that I had made a mistake by calling the angle mode at the start rather than in set-up. From here on, the process was surprisingly smooth-sailing.
 
-After this, I focused on the user interaction elements with the sketch. I knew that I still had work to do on the visuals themselves, but I also knew that the UI was important and I didn't want to leave it until the last minute. The way I added buttons was a bit of a cheat method to be honest... I used CSS elements within the p5 sketch, made sure the shape and position was right, then just gave them 0 opacity. This was the best way I could think of for adding buttons that fit my design (having a big circle as a button in the middle), and are still pretty easy to connect to hover and click events. In those events, I just added changes in the text opacity over the CSS buttons to give them that 'cliackable-ness'.
+After this, I focused on the user interaction elements with the sketch. I knew that I still had work to do on the visuals themselves, but I also knew that the UI was important and I didn't want to leave it until the last minute. The way I added buttons was a bit of a cheat method to be honest... I used CSS elements within the p5 sketch, made sure the shape and position was right, then just gave them 0 opacity. This was the best way I could think of for adding buttons that fit my design (having a big circle as a button in the middle), and are still pretty easy to connect to hover and click events. In those events, I just added changes in the text opacity over the CSS buttons to give them that 'clickable-ness'.
 
 <img src="Screen Shot 2020-10-18 at 1.55.46 pm.png" width="400" />
 
