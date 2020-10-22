@@ -2,7 +2,13 @@
 
 ## intro
 
-We started off with an intro into generative and parametric design. There were some particular examples by Ryoji Ikeda with [Test Pattern](https://www.youtube.com/watch?v=XwjlYpJCBgk) and David Klein with [No Regrets](http://davidjklein.ca/No-Regrets)(site is no longer accessible) that really sparked my interest. 'No Regrets' is a typographic web page with some parts of the text acting as minute and hour hands of a clock. This means that when you first load up the page, you can read the text perfectly but if you left it for a number of hours it would become illegible. This also reminded me of a page from last semester by Tiger Dingsun called [Reading Machines](https://tdingsun.github.io/reading-machines/) that incorporated typography as well as poetry and other literature with sound and a some clever web-coding. From looking at these examples and a few more I got the idea that a web-based project might be a good idea, seeing as everyone would be able to access it, and I had never worked on a web project before. I also liked the concept of working with sound, as I think it is something that is somewhat underused on the web; I think it can really add something.
+We started off with an intro into generative and parametric design. There were some particular examples by Ryoji Ikeda with [Test Pattern](https://www.youtube.com/watch?v=XwjlYpJCBgk) and David Klein with [No Regrets](http://b.parsons.edu/~kleid973/typeface/) that really sparked my interest. 'No Regrets' is a typographic web page with some parts of the text acting as minute and hour hands of a clock. This means that when you first load up the page, you can read the text perfectly but if you left it for a number of hours it would become illegible. This also reminded me of a page from last semester by Tiger Dingsun called [Reading Machines](https://tdingsun.github.io/reading-machines/) that incorporated typography as well as poetry and other literature with sound and a some clever web-coding. From looking at these examples and a few more I got the idea that a web-based project might be a good idea, seeing as everyone would be able to access it, and I had never worked on a web project before. I also liked the concept of working with sound, as I think it is something that is somewhat underused on the web; I think it can really add something.
+
+No Regrets
+
+<img src="noregrets.gif" width="900" />
+
+Reading Machines
 
 <img src="Screen Shot 2020-10-21 at 12.28.08 pm.png" width="900" />
 
