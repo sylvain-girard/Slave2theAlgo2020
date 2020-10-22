@@ -8,15 +8,15 @@ This was defintely one of the busier weeks to say the least... While my project 
 
 I moved on to finalising the the wavy lines that had been causing me so much trouble... I still had an issue with there being a connecting line at the top of the letter O that kind of ruined it, so I experiemented with all the different ways of using [beginShape](https://p5js.org/reference/#/p5/beginShape). I found that if I called any variable in the beginShape() brackets, that line would disappear, so I left in on beginShape(POINTS) because I liked the effect. After working on the sound mapping of the lines and getting it to a place that I liked, I was finding that, at times, the points were just turning into a mess of dots on the screen and losing thhe line form, so I switched to beginShape(LINES). This worked really well with the sound; as the lines expanded, they appeared to gain speed because the space between them would grow too.
 
-connecting line issue
+Connecting line issue
 
 <img src="Screen Shot 2020-10-22 at 2.50.22 pm.png" width="350" />
 
-beginShape(POINTS)
+BeginShape(POINTS)
 
 <img src="points.gif" width="350" />
 
-beginShape(LINES)
+BeginShape(LINES)
 
 <img src="lines.gif" width="350" />
 
