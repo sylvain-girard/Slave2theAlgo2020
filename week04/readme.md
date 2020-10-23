@@ -1,4 +1,4 @@
-# stuff we did in week 4
+# week 4
 
 ## processing hunt & gather
 
@@ -27,3 +27,5 @@ We also began working with text in Processing, which I guess proved to be a litt
 <img src="Screen Shot 2020-08-14 at 2.08.36 pm.png" width="600" />
 
 ## [week 5 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week05/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)

@@ -29,3 +29,5 @@ This week involved some more type-based coding and being able to assign various 
 <img src="Screen Shot 2020-09-11 at 8.42.04 pm.png" width="750" />
 
 ## [week 8 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week08/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)

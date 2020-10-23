@@ -25,3 +25,5 @@ After this, I focused on the user interaction elements with the sketch. I knew t
 [Sketch as of week 11 (showing angle mode issue)](https://sylvain-girard.github.io/Slave2theAlgo2020/week11/chromaesthetorweek11/)
 
 ## [week 12 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week12/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)

@@ -27,3 +27,6 @@ After rolling the dice 60 times, we realised that this is where a computer algor
 <img src="art.png" width="350" />
 
 ## [week 2 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week02/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
+

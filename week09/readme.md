@@ -23,3 +23,5 @@ After the vibrating letters sketch we looked at the text-to-points function of p
 <img src="ttpgif.gif" width="600" />
 
 ## [week 10 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week10/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)

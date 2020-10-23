@@ -2,6 +2,8 @@
 
 # SKO - Sylvain Girard
 
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
+
 ### [week 1](https://sylvain-girard.github.io/Slave2theAlgo2020/week01/)
 
 ### [week 2](https://sylvain-girard.github.io/Slave2theAlgo2020/week02/)

@@ -31,3 +31,5 @@ I also remixed Jinni's sketch, adding mouse-tracking animated facial expression,
 <img src="jinniremix.gif" width="600">
 
 ## [week 3 ->](https://sylvain-girard.github.io/Slave2theAlgo2020/week03/)
+
+### [home](https://sylvain-girard.github.io/Slave2theAlgo2020/landing-page/s2tapage/)
